@@ -8,9 +8,9 @@
 
 <p>  
 <!-- GitHub Stats -->  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=solitarywolf007&show_icons=true&hide_border=true" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=solitarywolf007&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solitarywolf007&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solitarywolf007&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
